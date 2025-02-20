@@ -1,0 +1,19 @@
+OFFICIAL REQUEST [1A] FOR VARIABLE DECLARATION
+SECTION 1: APPLICANT INFORMATION
+	- Name: Melinda Chang
+	- Date of Request Submission (YYYYMMDD): 20250219
+	- Programming License Number: 125
+SECTION 2: VARIABLE DETAILS
+	- Proposed Variable Name: counter
+	- Official Data Type Designation: INTEGER (per Data Type Regulation 4.12.3-A)
+	- Initial Proposed Value: 0
+	- Intended Scope of Use: LOCAL
+SECTION 3: JUSTIFICATION OF NEED
+	- STATEMENT OF PURPOSE: "To facilitate incremental counting within a loop structure."
+	- Explanation of Alternatives Considered: "None found suitable."
+SECTION 4: CONSENT AND ACKNOWLEDGEMENT
+	- I, the undersigned, accept full responsibility for any and all consequences resulting from this declaration, initialization, and use of this variable, including but not limited to program crashes, infinite loops, and unexpected output. I agree to indemnify and hold harmless the Department of Variable Declaration from any claims arising from misuse or malfunction.
+	- Signature: MELINDA CHANG
+	- Date: 20250219
+
+SUBMIT REQUEST [1A] TO THE DEPARTMENT OF VARIABLE DECLARATION FOR FORMAL REVIEW AND APPROVAL;
